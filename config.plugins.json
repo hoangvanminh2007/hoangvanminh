@@ -1,0 +1,54 @@
+{
+  "bandori": {
+    "pullRate": {
+      "_SPECIAL": 2,
+      "_4STARS": 20,
+      "_3STARS": 100,
+      "_2STARS": 300
+    },
+    "pullCost": 500,
+    "refund": 150
+  },
+  "audio": {
+    "API_KEY": "AIzaSyCXD9VHuJv3kqeeB4XQ1W-n4fcvk0uXCgI",
+    "MAX_SONGS": 3
+  },
+  "video": {
+    "API_KEY": "AIzaSyCXD9VHuJv3kqeeB4XQ1W-n4fcvk0uXCgI",
+    "MAX_VIDEOS": 6
+  },
+  "daily": {
+    "min": 10000,
+    "max": 1000000
+  },
+  "work": {
+    "min": 10000,
+    "max": 1000000,
+    "delay": [
+      1800000,
+      3600000,
+      10800000,
+      7200000,
+      21600000
+    ]
+  },
+  "sicbo": {
+    "minbet": 50
+  },
+  "mods": {
+    "absolute": [
+      "61550886774254"
+    ]
+  },
+  "send": {
+    "minAmount": 1000,
+    "fee": 0.05
+  },
+  "tikvideo": {
+    "rapidAPIKeys": [
+      "307bec2bcbmshb748ecfe938742dp165710jsn576aac0d5843",
+      "256a5a82f6mshdec61968b0afa44p1ff6bejsne9f274912652",
+      "606f44b183msh2cf82a0144d56d7p19e4edjsn94959b3daa51"
+    ]
+  }
+}
